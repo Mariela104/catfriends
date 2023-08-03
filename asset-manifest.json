@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mariela104/catfriends.git/static/css/main.f42b64c7.css",
+    "main.js": "/Mariela104/catfriends.git/static/js/main.86bd5f7f.js",
+    "static/js/787.23e3530d.chunk.js": "/Mariela104/catfriends.git/static/js/787.23e3530d.chunk.js",
+    "index.html": "/Mariela104/catfriends.git/index.html",
+    "main.f42b64c7.css.map": "/Mariela104/catfriends.git/static/css/main.f42b64c7.css.map",
+    "main.86bd5f7f.js.map": "/Mariela104/catfriends.git/static/js/main.86bd5f7f.js.map",
+    "787.23e3530d.chunk.js.map": "/Mariela104/catfriends.git/static/js/787.23e3530d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f42b64c7.css",
+    "static/js/main.86bd5f7f.js"
+  ]
+}
